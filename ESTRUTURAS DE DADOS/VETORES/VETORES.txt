@@ -1,0 +1,18 @@
+VETORES 
+1 inserir Dados 
+2 excluir Dados 
+3 localizar um elemento 
+4 percorrer todos os itens constituintes da estrutura para 
+visualização
+5 classificar que se resume em colocar os itens de dados 
+em um determinada ordem (numérica, alfabética, etc)
+
+PRINCIPAIS ESTRUTURAS DE DADOS 
+VETORES E MATRIZES 
+REGISTRO 
+LISTA 
+PILHA 
+FILA 
+ARVORE
+TABELA HASH
+GRATOS 

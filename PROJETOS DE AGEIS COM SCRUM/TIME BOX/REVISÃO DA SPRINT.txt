@@ -1,0 +1,12 @@
+Revisão da Sprint 
+
+Time DEV apresenta para o PO o trabalho feito 
+Retrospectiva da Sprint 
+Reunião da equipe para lições aprendidas = Transparência
+
+—--------------------------------------------------------------------------------------------------------------
+
+Quem é o Product Owner?
+
+O Product Owner (PO) representa o profissional que tem a visão do que será desenvolvido, 
+as necessidades a serem atendidas, o público que vai utilizar os serviços e os objetivos a serem alcançados. 

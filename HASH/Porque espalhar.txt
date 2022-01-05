@@ -1,0 +1,8 @@
+A tabela hash Permite a associação de "valores" a "chaves"
+
+Valores : é a posição ou indice onde o elemento se encontra
+
+Chaves : parte da informação que compoem o elemento a ser manipulado 
+
+Espalhar facilita a busca na estrutura  de dados, poisa partir de
+uma chave podemos acessar de forma rapida uma posição do "array"

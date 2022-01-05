@@ -1,0 +1,19 @@
+Exemplo de uma Estória 
+1) NOME DA ESTÓRIA
+2) DESCRIÇÃO DA ESTÓRIA (EU, COMO, QUERO, QUANDO)
+3) REGRAS DE NEGÓCIO (SEPARA REGRAS DE FRONT-END DE REGRAS  DE BACK-END)
+4) TELA(LINK OU IMAGEM DAS TELAS A SEREM DESENVOLVIDAS)
+5) KPI (QUAIS OS OBJETIVOS/VALOR  A ESTÓRIA PRECISA ATINGIR)
+6)TAGUEAMENTO (COMO A ESTÓRIA SERÁ “TAGUEADA” PARA PODE MENSURAR OS KPI)
+7) CRITÉRIOS DE ACEITE (QUAL O PASSO A PASSO DE TODOS OS CAMINHOS FELIZES POSSÍVEIS A ESTÓRIA DEVE
+ CUMPRIR PARA QUE ELE SEJA CONSIDERADA ACEITA)
+
+
+
+Execício final 
+
+Qual característica melhor descreve uma estória?
+R,Uma tarefa descrita em nível de negócio 
+
+O que é uma tarefa?
+R. Um conjunto de atividades que o time de desenvolvimento deve se empenhar para entregar a estória

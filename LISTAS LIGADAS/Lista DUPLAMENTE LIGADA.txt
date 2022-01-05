@@ -1,0 +1,9 @@
+Lista DUPLAMENTE LIGADA 
+A grande diferença das listas duplamente ligadas
+para as listas ligadas é que ela são bidirecionais.
+Vimos que naturalmente, não conseguimos "andas para trás" 
+em listas ligadas, pois os nós de uma 
+lista ligada sabem  somente quem é o próximo elemento.
+Nas listas duplamente ligadas, os nós sabem quem é 
+o próximo elemento e também quem é o elemento anterior 
+o que permite a navegação reversa.

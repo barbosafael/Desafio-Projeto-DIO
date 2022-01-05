@@ -1,0 +1,8 @@
+um algoritmo é um conjunto de instruções 
+estruturadas e ordenadas, seu objetivo é realizar
+uma tarefa ou operação especifica 
+
+Os algoritmos são utilizados para manipulas dados 
+na estruturas de varias formas, como por;
+
+EXEMPLO: inserir, excluir, procurar e ordenas dados. 

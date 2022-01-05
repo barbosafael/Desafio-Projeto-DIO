@@ -1,0 +1,11 @@
+O que são tabelas HASH?
+
+Uma tabela hash, de dispersão ou espalhamento
+é uma estrutura de dados especial, que associa 
+chaves de pesquisa a valores
+
+Uma tabela hash é uma generalização da ideia de 
+array, porem utiliza uma função denominada hashing
+para espalhar os elementos , fazendo com que os 
+mesmo fiquem de formar não ordenada dentro do "array" 
+que define a tabela

@@ -1,0 +1,25 @@
+Relacionamento com Clientes/Stakeholders
+O stakeholder é uma pessoa ou um grupo que legitima as ações de uma organização e 
+que tem um papel direto ou indireto na gestão e resultados dessa mesma organização.
+Desta forma,um stakeholder pode ser afetado positivamente ou negativamente, 
+dependendo das suas políticas e forma de atuação.
+Alguns exemplos de stakeholder de uma empresa podem ser os seus funcionários, 
+gestores, gerentes, proprietários, fornecedores, concorrentes, ONGs, clientes, o Estado, 
+credores, sindicatos e diversas outras pessoas ou empresas que estejam relacionadas com uma determinada ação ou projeto.
+
+Estória vs Tarefa
+Daily e retrospectiva 
+Quem tem participação obrigatória na Daily?
+R.O Time de Desenvolvimento apenas (o SM é apenas um facilitador mas não precisa estar presente)
+
+Quem tem participação obrigatória na Retro?
+R. O time de desenvolvimento e o SM 
+
+Refinamento
+1)Em que momento acontece o Refinamento? 
+ R. O refinamento acontece um passo antes da Planning
+
+2)Qual o principal objetivo da Review?
+ R. Verificar se a demanda agrega valor ao negócio
+Maturidade do Time = SCRUM 
+Transparência/ Inspeção/ Adaptação 

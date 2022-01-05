@@ -1,0 +1,14 @@
+Critérios de aceite, Estimativa e planejamento de tarefas
+
+É uma lista de critérios que precisam ser alcançados para que a User Story atenda os requisitos
+ do usuário e seja pela Product Owner.
+Os Critérios de aceitação tem o objetivo de: Definir limites para as user stories. 
+Ajudar o P.O a detalhar em alto nível o que é necessário para entregar valor ao cliente.
+
+
+Exercício final 
+O que é um Critério de aceite?
+R.É uma lista de critérios que para que a estória atenda aos requisitos do cliente
+
+O que é Planning Poker?
+R.Uma atividade de mensuração do esfoço e complexidade das tarefas ou estórias

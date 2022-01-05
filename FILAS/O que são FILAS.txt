@@ -1,0 +1,6 @@
+A estrutura o tipo fila admite remoção de elementos
+e inserção de novos sujeita á seguinte regra de operação
+
+O elemento removido é o que esta na estritura há mais tempo
+ou seja, o primeiro objeto inserido na fila é também o primeiro a 
+ser removido seguindo o conceito FIFO

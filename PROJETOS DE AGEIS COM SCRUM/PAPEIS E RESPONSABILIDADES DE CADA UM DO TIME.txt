@@ -1,0 +1,33 @@
+Papeis e responsabilidades de cada um time 
+Product Owner = PO 
+Scrum master  = SM
+Time de desenvolvimento = DEV 
+ 
+Product Owner = PO 
+1 - Representante da area de negocios 
+2 - PO não é um comitê 
+3 - Define as funcionalidades do software (Product Backlog) 
+4 - Prioriza as funcionalidades de acordo com o valor do negocio;
+5 - Garante que o time de desenvolvimento entenda os itens do Backlog no nivel necessario 
+
+Scrum master  = SM
+1 - Garantir o uso correto do SCRUM 
+2 - SCRUM Master não é Gerente de Projetos;
+3 - Age como facilitador 
+4 - Auxilia o Product Owner no planejamento e estimativas do backlog
+5 - Auxilia a equipe a remover impedimento e interdisciplinaridade
+
+Time de desenvolvimento = DEV 
+1 - Possui habilidades suficientes para desenvolver, testar, criar e desenhar, 
+ou seja,  tudo que for necessário para entregar o software funcionando 
+
+Exercicio final 
+1) Quem é o responsavel por priorizar o backlog?
+R. Product Owner = PO 
+
+2) Quem é o resposavel por garantir que o time utilize 
+a melhor forma o SCRUM?
+R. Scrum master  = SM
+
+3) Quem é o resposavel por desenhar, construir e entregar o software funcionando?
+R.Time de desenvolvimento = DEV 

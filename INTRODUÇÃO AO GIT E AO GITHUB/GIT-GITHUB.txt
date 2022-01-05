@@ -1,0 +1,37 @@
+o que vamos aprender?
+mudar de pastas 
+
+listar as pastas
+
+criar pastas/arquivos 
+
+deletar pastas/arquivos
+
+---------------------------
+windows    | unix
+-cd        | -cd
+-dir       | -is
+-mkdir     |  -mkdir 
+-del/rmdir | -rm -rf
+---------------------------
+Sha1
+Objetos fundamentais 
+sistema distribuido 
+segurança 
+
+---------------------------
+SHA1 
+A sigla SHA significa segure hash algorithm (Algoritmo
+de hash seguro). é um conjunto de funções hash 
+criptograficas prjetadas pela NSA (agencia de Segunraça
+Nacional dos EUA) 
+
+A encripyação gera conjunto de characteres identificador de 40 digitos 
+---------------------------
+Blobs 
+trees
+---------------------------
+CHAVE SSH  
+fornece uma conexao segura 
+entre duas maquinas
+

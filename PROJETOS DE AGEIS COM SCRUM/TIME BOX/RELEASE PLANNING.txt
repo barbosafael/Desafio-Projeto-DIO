@@ -1,0 +1,27 @@
+Release Planning 
+
+Liberação ou lançamento de software (em inglês: Release) é  o lançamento de nova versão
+ oficial de produto de software. Cada vez que um produto de software é criado ou modificado,
+ o fabricante e seus desenvolvedores decidem sobre como distribuir ou o novo produto ou
+ a modificação às pessoas que o utilizam.
+
+O Product Backlog é composto por Épicos e Estórias 
+Épicos = Incremento sem muito detalhamento, ajuda a te direcionar dos caminhos que deve seguir. 
+
+Estória = Detalhamento dos épicos, um épico normalmente se divide em várias estórias,
+ onde ficam descritos o que deve acontecer e suas regras de negócio
+
+Riscos Positivos 
+Positivos = Muito ignorado nos projetos, porém um dos fatores de maiores ganhos no desenvolvimento de sistemas.
+
+Negativos = Itens que podem afetar o prazo, custo ou escopo de um projeto de maneira que pode acabar inviabilizando-o 
+
+Exercício Final 
+Qual método é mais indicado para definir o Escopo do projeto?
+R. Entender qual o ganho antes de definir o escopo
+
+O que compõe um Product Backlog? 
+R. Épico e Estória 
+
+Qual a importância de mapear Riscos Positivos? 
+R. Poder priorizar outros itens no backlog

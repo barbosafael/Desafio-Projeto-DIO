@@ -1,0 +1,11 @@
+SCRUM 
+SCRUM  é um dos frameworks de gerenciamento projetos ágeis
+Projetos usando equipes pequenas e multidisciplinares 
+produzem os melhores resultados 
+
+Pilares do SCRUM : Transparência/Adaptação/inspeção 
+Conversar mais e escrever menos;
+Demonstrar o software constantemente aos usuários 
+obter feedbacks constantes; 
+Requisitos mudam ao longo do tempo ;
+Aprender progressivamente com o uso do software
